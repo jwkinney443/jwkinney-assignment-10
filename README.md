@@ -1,6 +1,9 @@
 # Assignment 10: Image Search
 --------------------
 
+## Video
+[Link](https://youtu.be/mX74eMw_gWg?feature=shared)
+
 **Goal:** Implement a simplified version of Google Image Search.
 
 This is a GUI assignment. Please set up a GitHub repo like previous assignments. There is no GUI template, but we encourage you to reuse code from earlier homeworks.
